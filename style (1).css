@@ -1,0 +1,40 @@
+body{
+    background-image: url("ground.jpg");
+    background-position:0%;
+    background-size: auto;
+    font-family:cursive;
+}
+video{
+    border-radius: 10%;
+}
+h1{
+    color :rgb(174, 132, 73);
+    font-size: 60px;
+    text-align: center;
+}
+p{
+    color: rgb(122, 130, 181);
+    font-size: 30px;
+}
+video{
+    position: center;
+}
+.planet{
+    background-color: #7ae6c9; 
+    color: white; 
+    height: 35px; 
+    width: 150px;
+}
+.btn{
+    display: inline-block;
+    background-color: #7dccc2;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 0 auto;
+    text-decoration: none;
+    border-radius: 5px;   
+    place-items: center;
+}
+.play{
+    border-radius: 5px;
+}

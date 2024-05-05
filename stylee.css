@@ -1,0 +1,14 @@
+body {
+    background-image: url("ground.jpg");
+    background-position:0%;
+    background-size: auto;
+}
+.btn{
+    display: inline-block;
+    background-color: #7dccc2;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 0 auto;
+    text-decoration: none;
+    border-radius: 5px;
+}
